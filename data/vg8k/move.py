@@ -1,6 +1,6 @@
 import os
 import tqdm
-source = './VG_100K/images/'
+source = './VG_100K/VG_100K_2//'
 destination = './VG_100K/'
   
 allfiles = os.listdir(source)
